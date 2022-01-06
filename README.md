@@ -6,7 +6,9 @@ Most of my work thus far has been college related with a few side projects here 
 
 ### About Me 👾
 📚 I’m currently learning Magento and React
+
 🎧 I’m currently listening to Lofi
+
 📫 How to reach me: wburrowsm@gmail.com
 
 <!--
