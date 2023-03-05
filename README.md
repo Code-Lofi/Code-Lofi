@@ -1,8 +1,6 @@
 ### Hey I'm Will Burrows 👋
 
-I work as a Quality Assurance Tester at a Magento Dev Agency out of Michigan.
-That being said I'm looking to put my CS degree to good use and develop a strong foundation in FE/BE development.
-Most of my work thus far has been college related with a few side projects here and there but none of that is going to be included on this account. This is a space for passion projects and collaboration with the community.
+I work as a software developer
 
 ### About Me 👾
 📚 I’m currently learning Magento and React
